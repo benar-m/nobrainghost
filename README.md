@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm currently working on an Arcade Chess Game<br>Learning C++ and Pytorch for Deep Learning<br>Django and Automation<br>Student, Mathematics && Computer Science<br>AI enthusiast 
+Learning C++ and Pytorch for Deep Learning<br>Django and Automation<br>Student, Mathematics && Computer Science<br>AI enthusiast 
 
 
 # 💻 Tech Stack:
