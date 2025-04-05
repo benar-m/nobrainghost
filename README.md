@@ -1,6 +1,6 @@
 # 💫 About Me  
 - Backend-focused developer with a strong interest in scalable systems, automation, and clean architecture.  
-- Proficient in Python, Django, and Go — building fast, reliable, and maintainable APIs.  
+- Proficient in Python with Django, and Go — building fast, reliable, and maintainable APIs.  
 - Exploring system design principles for scalable and production-ready backend infrastructure.  
 - Mathematics & Computer Science student.  
 - AI enthusiast — interested in deep learning, model optimization, and data pipelines.
