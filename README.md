@@ -36,7 +36,8 @@
   <img src="https://skillicons.dev/icons?i=heroku" />
   <img src="https://skillicons.dev/icons?i=vercel" />
 </div>
-**Interests & Tools**
+
+### Interests && Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=vim" />
@@ -56,7 +57,8 @@
       <img alt="Dashboard stats of @Olooce" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=121952433&image_size=auto&color_scheme=light" width="600">
     </picture>
   </a>
-    ### Contribution Stats
+  
+  ### Contribution Stats
 
   <img src="https://streak-stats.demolab.com/?user=nobrainghost&theme=dark&background=000000" width="600" alt="GitHub Streak"/>
 
@@ -64,7 +66,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
+</div>
 
 ---
 
