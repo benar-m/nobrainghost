@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=heroku" />
   <img src="https://skillicons.dev/icons?i=vercel" />
 </div>
-### *Interests & Tools*  
+###Interests & Tools 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=vim" />
