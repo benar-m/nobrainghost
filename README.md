@@ -47,36 +47,17 @@
   <img src="https://skillicons.dev/icons?i=github" />
   
 </div>
+##Coding Time
+ [![wakatime](https://wakatime.com/badge/user/6e3390ca-e2f0-47c3-887e-f33f6b969adb.svg)](https://wakatime.com/@6e3390ca-e2f0-47c3-887e-f33f6b969adb)
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nobrainghost&layout=compact&theme=vision-friendly-dark" width="600" alt="Coding Time"/>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 ---
-
-### Databases  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=redis" />
-
-</div>
-
-### DevOps & Cloud  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure" />
-  <img src="https://skillicons.dev/icons?i=heroku" />
-  <img src="https://skillicons.dev/icons?i=vercel" />
-</div>
-
-**Interests&&Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=vim" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=regex" />
-  <img src="https://skillicons.dev/icons?i=gcp" />
-   <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=github" />
-  
-</div>
 
 **REST | gRPC | System Design | API Architecture | CI/CD | Firebase Auth | Web Scraping | Background Task Runners | JWT | SQLite | Linux**
