@@ -1,12 +1,13 @@
 # 💫 About Me  
-- Currently Working on www.kustudyhub.live and [SymptoChat](https://github.com/nobrainghost/SymptoChat).
+
+- Currently Working on [www.kustudyhub.live](https://www.kustudyhub.live) and [SymptoChat](https://github.com/nobrainghost/SymptoChat).
 - Backend-focused developer with a strong interest in scalable systems, automation, and clean architecture.  
-- Proficient in Python with Django, and Go - building fast, reliable, and maintainable APIs.  
+- Proficient in Python with Django, and Go – building fast, reliable, and maintainable APIs.  
 - Exploring system design principles for scalable and production-ready backend infrastructure.  
 - Mathematics & Computer Science student.  
-- AI enthusiast - interested in deep learning, model optimization, and data pipelines.
+- AI enthusiast – interested in deep learning, model optimization, and data pipelines.
 
-# Tech Stack:
+# 🧠 Tech Stack:
 
 ### Languages & Frameworks  
 <div align="center">
@@ -27,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=sqlite" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=redis" />
-
 </div>
 
 ### DevOps & Cloud  
@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" />
 </div>
 
-### Interests && Tools
+### **Interests & Tools**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=vim" />
@@ -46,30 +46,24 @@
   <img src="https://skillicons.dev/icons?i=gcp" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
-  
 </div>
 
-
 ---
-  ### Contribution Stats
+
+### 📊 Contribution Stats
 
 <div align="center">
-  
- <!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=83333147" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83333147&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @nobrainghost" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83333147&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
-</a>
+</div>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-</div>
 
 ---
 
