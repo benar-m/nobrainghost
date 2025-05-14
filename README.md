@@ -47,11 +47,13 @@
   <img src="https://skillicons.dev/icons?i=github" />
   
 </div>
-##Coding Time
- [![wakatime](https://wakatime.com/badge/user/6e3390ca-e2f0-47c3-887e-f33f6b969adb.svg)](https://wakatime.com/@6e3390ca-e2f0-47c3-887e-f33f6b969adb)
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nobrainghost&layout=compact&theme=vision-friendly-dark" width="600" alt="Coding Time"/>
-</div>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=83333147" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83333147&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @nobrainghost" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83333147&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
