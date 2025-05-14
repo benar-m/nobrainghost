@@ -10,7 +10,7 @@
 
 ### Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,javascript,django,fastapi,flask,gin,echo,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python,go,javascript,django,fastapi,flask,pandas,numpy,pytorch,tornado,react,nextjs" />
 </p>
 
 ---
