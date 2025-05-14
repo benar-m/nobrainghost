@@ -48,6 +48,8 @@
   <img src="https://skillicons.dev/icons?i=github" />
   
 </div>
+---
+  ### Contribution Stats
 
 <div align="center">
   
@@ -58,7 +60,6 @@
     </picture>
   </a>
   
-  ### Contribution Stats
 
   <img src="https://streak-stats.demolab.com/?user=nobrainghost&theme=dark&background=000000" width="600" alt="GitHub Streak"/>
 
