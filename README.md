@@ -36,15 +36,15 @@
   <img src="https://skillicons.dev/icons?i=heroku" />
   <img src="https://skillicons.dev/icons?i=vercel" />
 </div>
-###Interests & Tools 
+### **Interests & Tools**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=vim" />
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=regex" />
   <img src="https://skillicons.dev/icons?i=gcp" />
-   <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
   
 </div>
 
@@ -78,4 +78,4 @@
   
 </div>
 
-REST | gRPC | System Design | API Architecture | CI/CD | Firebase Auth | Web Scraping | Background Task Runners | JWT | SQLite | Linux
+**REST | gRPC | System Design | API Architecture | CI/CD | Firebase Auth | Web Scraping | Background Task Runners | JWT | SQLite | Linux**
