@@ -48,12 +48,18 @@
   
 </div>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=83333147" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83333147&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @nobrainghost" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83333147&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+<div align="center">
+  
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=121952433" target="_blank" style="display: block">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=121952433&image_size=auto&color_scheme=dark" width="600">
+      <img alt="Dashboard stats of @Olooce" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=121952433&image_size=auto&color_scheme=light" width="600">
+    </picture>
+  </a>
+    ### Contribution Stats
+
+  <img src="https://streak-stats.demolab.com/?user=nobrainghost&theme=dark&background=000000" width="600" alt="GitHub Streak"/>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
