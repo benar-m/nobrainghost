@@ -21,6 +21,32 @@
   <img src="https://skillicons.dev/icons?i=nextjs" />
 </div>
 
+### Databases  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+
+</div>
+
+### DevOps & Cloud  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=heroku" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</div>
+### *Interests & Tools*  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=vim" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=regex" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
+   <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=github" />
+  
+</div>
 
 
 ---
@@ -40,7 +66,7 @@
   <img src="https://skillicons.dev/icons?i=heroku" />
   <img src="https://skillicons.dev/icons?i=vercel" />
 </div>
-### Interests & Tools  
+### *Interests & Tools*  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=vim" />
