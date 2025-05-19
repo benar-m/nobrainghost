@@ -2,7 +2,7 @@
 
 - Currently Working on [www.kustudyhub.live](https://www.kustudyhub.live) and [SymptoChat](https://github.com/nobrainghost/SymptoChat).
 - Backend-focused developer with a strong interest in scalable systems, automation, and clean architecture.  
-- Proficient in Python with Django, and Go – building fast, reliable, and maintainable APIs.  
+- Proficient in Python with Django and FastAPI, and Go – building fast, reliable, and maintainable APIs.  
 - Exploring system design principles for scalable and production-ready backend infrastructure.  
 - Mathematics & Computer Science student.  
 - AI enthusiast – interested in deep learning, model optimization, and data pipelines.
