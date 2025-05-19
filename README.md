@@ -5,7 +5,7 @@
 - Proficient in Python with Django and FastAPI, and Go – building fast, reliable, and maintainable APIs.  
 - Exploring system design principles for scalable and production-ready backend infrastructure.  
 - Mathematics & Computer Science student.  
-- AI enthusiast – interested in deep learning, model optimization, and data pipelines.
+- AI enthusiast – interested in NLP,deep learning, model optimization, and RAG.
 
 # 🧠 Tech Stack:
 
