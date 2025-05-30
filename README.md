@@ -1,7 +1,7 @@
 # 💫 About Me  
 
 - My Portfolio : [benar.me](https://www.benar.me)
-- Currently Working on [www.kustudyhub.live](https://www.kustudyhub.live) and [StockPulse](https:stockpulse-phi.vercel.app).
+- Currently Working on [www.kustudyhub.live](https://www.kustudyhub.live) and [StockPulse](https://stockpulse-phi.vercel.app/).
 - Backend-focused developer with a strong interest in scalable systems, automation, and clean architecture.  
 - Proficient in Python with Django and FastAPI, and Go – building fast, reliable, and maintainable APIs.  
 - Exploring system design principles for scalable and production-ready backend infrastructure.  
