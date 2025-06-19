@@ -1,4 +1,4 @@
-# 💫 About Me  
+#  About Me  
 
 - My Portfolio : [benar.me](https://www.benar.me)
 - Currently Working on [www.kustudyhub.live](https://www.kustudyhub.live) and [StockPulse](https://stockpulse-phi.vercel.app/).
@@ -8,7 +8,7 @@
 - Mathematics & Computer Science student.  
 - AI enthusiast – interested in NLP,deep learning, model optimization, and RAG.
 
-# 🧠 Tech Stack:
+#  Tech Stack:
 
 ### Languages & Frameworks  
 <div align="center">
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 Contribution Stats
+###  Contribution Stats
 
 <div align="center">
   <picture>
