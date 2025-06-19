@@ -52,13 +52,7 @@
 
 ---
 
-###  Contribution Stats
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83333147&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @nobrainghost" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83333147&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
     <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nobrainghost&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
   </p> 
